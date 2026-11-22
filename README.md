@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nawaz Builds
 
-<!--
-**NawazBuilds/nawazbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build custom, high converting Shopify stores for growing brands.
 
-Here are some ideas to get you started:
+## What we do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Shopify store design
+* Custom Shopify development
+* Store migration to Shopify
+* Speed optimization
+* Store audits
+* Monthly store care and maintenance
+
+Store design from $299. Monthly care from $99.
+
+## Find us
+
+* Website: https://www.nawazbuilds.com/
+* Blog: https://www.nawazbuilds.com/blog
+* Store audit: https://www.nawazbuilds.com/services/shopify-store-audit
+* LinkedIn: https://www.linkedin.com/company/nawaz-builds
